@@ -1,0 +1,14 @@
+.container {
+margin-top: 3em;
+}
+.current-color-text p {
+  text-align: center;
+}
+
+.current-color-box{
+ width: 50px;
+ height: 50px;
+ background-color: #999;
+ border: .25px solid #999999;
+
+}
